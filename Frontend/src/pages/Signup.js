@@ -98,6 +98,10 @@ const Signup = () => {
             {loading ? "Creating Account..." : "Create an account"}
           </button>
         </form>
+            <div className="auth-image">
+        {/* Right side image */}
+      </div>
+    
       </div>
     </div>
   );
